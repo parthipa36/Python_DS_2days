@@ -28,3 +28,8 @@
 - Integrate with twitter APIs to stream live tweets
 - Scrape data from website
 - Can we understand the sentiments from customer reviews?
+
+
+
+Machine Learning Using Python - Pre-Conference Workshop
+at IIM Bangalore 
